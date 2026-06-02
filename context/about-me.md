@@ -1,54 +1,192 @@
-# About Me — Andrew
-
-## Who I Am
-
-I'm an async, self-directed founder and creator running three simultaneous ventures at the intersection of collectibles, music, and gaming. I operate mostly independently, without a traditional schedule, and do my best strategic thinking in the morning. I value directness — no fluff, no hand-holding, no padding. Give me the real answer.
+# About Me — Andrew Spellman
+*Last updated: June 2026*
 
 ---
 
-## My Ventures
+## Identity
 
-### Cabana Cards
-An online collectibles company focused primarily on Pokémon cards and adjacent TCG products. Sales channels include Whatnot (live selling), eBay, TCGPlayer, Discord, and a proprietary website. This is an active, operational business with real revenue and ongoing inventory, sourcing, pricing, and community management demands.
+**Andrew Spellman.** 34 years old, born August 6, 1991. Cincinnati, OH. Husband, father of three, aerospace engineer turned musician turned founder. My superpower is resourcefulness — I can learn anything and figure out almost any problem. The current challenge is not capability, it's focus, systems, and bandwidth.
 
-### CHOMPO Records
-A music label focused on bass house and EDM. Currently handles artist management, music releases, and show coordination. I was previously a full-time musician with my own successful artist project — now I'm primarily on the label/management side. CHOMPO is at an inflection point: actively exploring a pivot toward becoming primarily a **music publisher**, signing acts for publishing rights rather than (or in addition to) traditional label deals. This transition has not yet happened but is a near-term strategic priority.
-
-### RELICSxyz (RELICS) — Contractor Role (Salaried)
-RELICS creates custom UGC inside Roblox and monetizes visual design, music licensing, and asset catalogs. The model involves:
-- Integrating with Roblox games as partners
-- Creating custom UGC (boomboxes, emotes, themed assets) for those games
-- Building a custom in-game UI tied to the boombox UGC
-- Signing music licensing deals to provide licensed tracks within games
-- Selling custom emotes and music-linked assets to players
-
-This sits at a unique intersection of gaming, music licensing, and digital goods. I contribute UGC creation (Blender/Roblox Studio) and likely strategy/product thinking.
+I am in a transition I haven't fully accepted yet: from "artist and creative" to "entrepreneur and family man." The identity shift is real and ongoing. The goal underneath everything is freedom — financial and time freedom to be present with my family without worry, not fame or recognition.
 
 ---
 
-## 12-Month Priority
+## Family
 
-**Scale one venture to real, meaningful revenue — or position it for an exit.**
+**Wife:** Lindsay Spellman, 35. Married 2016. Project Manager / Operations lead at Enable (biomedical company). Background: BS Mechanical Engineering + MBA, University of Cincinnati. Earns ~$175k/year and is the primary benefits provider for the family. Highly intelligent, logical, systems-driven. She is the operational counterweight to my creative chaos.
 
-The three businesses have real overlap (music × gaming × collectibles community) that is currently underleveraged. The goal is to identify and execute on the highest-leverage path, not spread effort equally across all three.
+**Children:**
+- **Leo** — born December 30, 2021
+- **Rosie** — born August 7, 2023
+- **Bowen** — born May 19, 2026 *(newborn)*
+
+Three kids under 5. This is the current dominant life context. Everything is filtered through it.
+
+**Home:** Own our home in Cincinnati, OH. Nearly debt-free — mortgage is the only remaining debt.
+
+**Financial goal:** Saving to purchase my grandparents' house (~$900k). Longer-term: early retirement for both Andrew and Lindsay, generational wealth, financial freedom for the kids.
 
 ---
 
-## Biggest Bottlenecks
+## Background
 
-All of the following are active constraints:
-- **Too many ideas, not enough execution** — strong ideation, needs filtering and prioritization
-- **Context-switching** — jumping between three distinct businesses kills momentum
-- **Lack of systems** — too much lives in my head; needs to be externalized
-- **Time** — async and self-directed means self-imposed structure is everything
+**Education:** BS Aerospace Engineering, University of Cincinnati.
+
+**Career arc:**
+1. Defense contractor for 8 years — coded for satellite and missile/space systems
+2. DSP engineer at a startup for 1 year
+3. Went full-time as a musician in 2020 after Monstercat offered a deal to fund the first Half an Orange album
+
+While working engineering jobs, I spent every morning and evening building the music career — it was always the goal, the day jobs were the runway. Eventually the runway was long enough to jump.
 
 ---
 
-## Daily Rhythm & Work Style
+## Creative Background & Skills
 
-- **Peak cognitive hours: Morning.** Strategic thinking, decisions, writing, and planning should happen here.
-- **Async by default.** No fixed meetings structure; I own my calendar.
-- **Self-directed.** Motivation and prioritization are internal — but benefit from external systems and accountability.
+Genuinely multi-disciplinary — not a generalist who does everything poorly, but actually excellent across most of these:
+
+- **Music production** — Logic Pro, full album production and mixing
+- **Visual design** — Photoshop, Illustrator, After Effects, Premiere, CapCut. Album covers, animated shows, marketing assets, brand identities
+- **3D modeling** — Blender, Roblox Studio. Currently building UGC assets professionally
+- **Coding** — Aerospace/defense background, comfortable in multiple languages, automation, bots, APIs
+- **Performance** — On-camera, live streaming, live music. Naturally charismatic, personable, engaging. People describe me as friendly, funny, eccentric, likeable, and trustworthy
+- **Brand building** — Can conceive, design, and execute a full brand from scratch
+
+This combination — technical brain + creative execution + on-camera presence — is the actual asset. Most people have one. I have all three.
+
+---
+
+## Ventures
+
+### 1. Cabana Cards *(primary focus, highest growth priority)*
+**What it is:** Online collectibles LLC focused on Pokémon cards and adjacent TCGs (Magic: The Gathering, One Piece, Godzilla, etc.).
+
+**Structure:** LLC. Andrew 51%, Chris 39%, Lindsay 10%. Started January 2025.
+
+**Branding:** "Cubone Cabana" on Whatnot and Instagram to avoid Pokémon copyright issues. Official legal name: Cabana Cards.
+
+**Sales channels:** Whatnot (live streaming 2x/week), eBay, TCGPlayer, Discord (~150 members), website (in progress via Hostinger).
+
+**2025 performance:** $175k revenue, $175k spend, ~$80k standing inventory. Broke even while building inventory — intentional.
+
+**2026 goal:** Profitable with maximum margin. The Pokémon market is booming. Goal is to capture short-term gains while building infrastructure to survive a market correction.
+
+**Website status:** Built from scratch — guts and overall structure are done. Remaining work: add inventory, set up mailing list, clean up visuals, confirm payment processing works. Realistically a few dedicated days of work. This is the current blocker for everything else.
+
+**Current build priorities (in order):**
+1. Launch website — this unlocks everything else
+2. Email list / capture mechanism
+3. YouTube channel — long-form market commentary to build trust and drive traffic to site
+4. Short-form on Instagram/TikTok/YouTube Shorts funneling to the above
+
+**The honest blocker:** Overwhelm from too many small-but-important tasks. The fix is simple — prioritize the website, ship it, then the YouTube launch has no excuse. Scripts to help research and prep social content are planned to reduce friction there.
+
+**My edge:** Better at all the parts than competitors — marketing, on-camera presence, creative execution, technical systems, brand building. The gap is time and focus, not capability.
+
+**Key relationships:** Chris (co-founder) handles sourcing and buying. Lindsay is minority owner, not operationally involved. Andrew is the face of the brand.
+
+---
+
+### 2. CHOMPO Records *(identity decision pending — likely wind-down or pivot)*
+**What it is:** Bass house and EDM music label. Co-owned by Andrew, Michael Maloof (stepping down), and Tokyo Machine (artist, not operationally involved).
+
+**Catalog:** 100+ songs. Sub-label GWAVA (melodic house) with Sirius XM placements.
+
+**History:** Founded alongside Half an Orange. Tour showcases, signed and developed artists. Tokyo Machine is the flagship act. Has been a genuine labor of love for years.
+
+**Current state:** Michael is leaving. Operations fall to Andrew + Chu (executive assistant). Tokyo Machine is artist-only. Day-to-day is artist relations, email, master catalog, DSP submissions, social assets, occasional album art.
+
+**The real situation:** Andrew's joy in running the label has faded. Heart isn't fully in it anymore. Still enjoys shows occasionally but the daily grind of it doesn't excite him. The deeper issue is an **identity holdover** — still self-identifying as "an artist" even though the actual goal has shifted to entrepreneur, family man, and builder of businesses that create freedom. Holding on to CHOMPO is partly holding on to that identity.
+
+**Options on the table:**
+1. **Publishing pivot** — sign small acts for publishing rights, build passive income over time, lower operational overhead. Leaning toward this.
+2. **Full wind-down** — retire CHOMPO, harvest remaining catalog as passive income, potentially sell the catalog. Would free up significant mental bandwidth.
+3. **Sell the catalog** — possible, worth exploring.
+
+**Honest recommendation to self:** The publishing pivot is the rational choice if staying in music matters. But the real question is whether the identity attachment is worth the ongoing cost. Committing fully to RELICS and Cabana would likely produce better outcomes. This decision needs a deadline.
+
+**Staff:** Chu (executive assistant) can run operations if Andrew steps back from day-to-day.
+
+---
+
+### 3. RELICSxyz / RELICS *(stable income — needs more consistent attention)*
+**What it is:** Roblox UGC and music licensing company. Founded with Mike and Ari (former Monstercat owners). Michael Maloof co-founded but has since left.
+
+**My role:** Creative Director. $100k/year contractor. ~$40k equity buy-in.
+
+**What RELICS does:**
+- Custom UGC for Roblox games (boomboxes, emotes, dance animations, themed items)
+- Custom RELICS UI embedded in games serving music and visual assets
+- Music licensing into games via Monstercat catalog + outbound licensing
+- Revenue share on in-game sales
+- ~30 game integrations currently, including top-50 and top-10 games
+- Actively growing
+
+**My day-to-day:** Game dev and contractor comms, Blender/Roblox Studio asset creation, design, strategic input on integrations.
+
+**Honest status:** This is the most stable and manageable of the three. Salary is reliable. Work is doable. I have been underdelivering — doing other things, handling bare minimums, using the newborn as cover. People haven't noticed yet but they will. The fix is simple: block dedicated RELICS time in the schedule and protect it. Motivation isn't the problem — structure is.
+
+---
+
+## Half an Orange *(legacy project — passive income)*
+Duo music project with Michael Maloof. Active ~2015–2022. Full-time for Andrew from 2020.
+
+**Achievements:**
+- ~50 tracks, full album, 100M+ streams across DSPs
+- Collaborated with many notable artists
+- Created an animated show (Andrew illustrated it)
+- Andrew designed all album art, did majority of production
+- NFT collections sold for ~$1M (Andrew and Michael received a portion as creative/artist team)
+- Still has a dedicated fanbase; streams remain strong passively
+
+Project is dormant. Passive income still flows. Part of Andrew's identity that he is actively transitioning away from — acknowledging it as a chapter rather than a current identity.
+
+---
+
+## How I Think & Operate
+
+**Peak hours:** Morning. Best strategic thinking, writing, decisions, and creative work happen early. Protect mornings.
+
+**Work style:** Async, self-directed. Own my schedule entirely (minus RELICS obligations).
+
+**Strengths:**
+- Resourcefulness — fastest path from "I don't know this" to "it's done"
+- Creativity across mediums
+- On-camera and public-facing presence
+- Learning speed — picks up any tool, language, or skill fast
+- Pattern recognition across industries
+
+**Current failure modes:**
+- Scattered — too many things open, nothing getting full attention
+- Burnt out — three ventures + three young kids including a newborn
+- Identity attachment — holding on to "artist" identity is causing strategic drag (specifically around CHOMPO)
+- Context-switching constantly kills momentum
+- Execution gap — strong ideas, inconsistent follow-through when overwhelmed
+- Procrastination via perfectionism — waiting for everything to be ready before starting (e.g. website before YouTube)
+
+**Self-awareness:** Capability is not the constraint. Structure, prioritization, and consistent execution are. Building this Personal OS is the first real attempt to close that gap.
+
+---
+
+## Health & Physical
+
+- **Build:** 220 lbs, male, generally healthy and athletic baseline
+- **Weightlifting:** Regular practice when life allows — currently on hiatus due to newborn
+- **Brazilian Jiu-Jitsu:** Blue belt. Haven't trained in several months (babies). Want to return. BJJ is uniquely valuable — it's physical chess, simultaneously a workout and a mental challenge. Andrew loves the measurable progression (belt system, technique mastery) and the way it quiets his brain. It pairs well with how he thinks.
+- **Current goal:** Get back to consistent training when Bowen is ~8-12 weeks old and routine stabilizes
+- **Mental:** Stretched thin. Some burnout. Reducing cognitive load via systems is as much a mental health goal as a productivity goal.
+
+---
+
+## Financial Picture
+
+- **Lindsay's income:** ~$175k/year — primary family income and benefits provider
+- **RELICS contractor:** $100k/year — Andrew's stable income
+- **Cabana Cards:** Variable, reinvesting, targeting profitability in 2026
+- **Half an Orange:** Passive streaming income, consistent
+- **CHOMPO:** Minimal current revenue
+- **Debt:** Mortgage only
+- **Wealth goals:** Purchase grandparents' house (~$900k), early retirement, generational wealth, financial freedom for kids
 
 ---
 
@@ -56,49 +194,44 @@ All of the following are active constraints:
 
 | Category | Tools |
 |---|---|
-| Notes / Docs / Project Mgmt | Notion |
-| Communication | Discord (primary), Gmail (multiple accounts per venture) |
+| Notes / Project Mgmt | Notion |
+| Communication | Discord (primary), Gmail (multiple accounts) |
 | Calendar | Google Calendar |
-| Code / Automation | VS Code, Claude Code, Railway (Docker/GitHub deploy pattern) |
-| 3D / Creative | Blender, Roblox Studio |
-| Commerce | Whatnot, eBay, TCGPlayer, own website |
-| AI Hub | Claude (Projects, claude.ai, API) |
+| Code / Automation | VS Code, Claude Code, Railway, Docker, GitHub |
+| 3D / Game | Blender, Roblox Studio |
+| Music | Logic Pro |
+| Design / Video | Adobe Photoshop, Illustrator, After Effects, Premiere Pro, CapCut |
+| Commerce | Whatnot, eBay, TCGPlayer, Hostinger (website) |
+| AI | Claude (Projects, claude.ai, API), Claude Code |
 
-**Note on Gmail:** Multiple accounts are in use — at minimum `andrew@cabanacards.com` for Cabana Cards, plus accounts tied to CHOMPO and RELICS. Email triage should treat each account as a distinct inbox with distinct priorities.
-
----
-
-## Life Tracking Areas
-
-Beyond work, the Personal OS should factor in and periodically prompt reflection on:
-
-- **Health & Fitness** — physical condition, habits, consistency
-- **Relationships & Family** — time and intentionality with people that matter
-- **Personal Finances & Wealth Building** — separate from business revenue; net worth, savings, investments, financial progress
+**Gmail accounts (treat as distinct inboxes with distinct priorities):**
+- `andrew@cabanacards.com` — Cabana Cards
+- CHOMPO account (TBD)
+- RELICS account (TBD)
 
 ---
 
 ## How to Work With Me
 
-- **Be direct.** Skip the preamble. Lead with the answer or the action.
-- **Push back when warranted.** If I'm wrong or thinking about something incorrectly, say so plainly.
-- **Prioritize ruthlessly.** When I'm scattered, help me identify the one thing that matters most.
-- **Assume technical competence.** I'm a capable developer — no need to over-explain code, tools, or concepts.
-- **Remember context.** I'm running three businesses simultaneously. Always factor in which hat I'm wearing and what the relevant tradeoffs are across the others.
-- **Call out bottlenecks.** If I'm describing a problem that's obviously a systems or prioritization issue, name it.
+- **Be direct.** Lead with the answer. No preamble, no padding.
+- **Push back.** If I'm wrong or scattered, say so plainly and immediately.
+- **One thing at a time.** When overwhelmed, give me the single most important next action — not a list.
+- **Assume competence.** Developer and engineer background. Don't over-explain tools or concepts.
+- **Hold context.** Three businesses, three kids including a newborn, limited bandwidth. Factor this into every suggestion.
+- **Name the real problem.** If symptoms point to a deeper issue, call it out directly.
+- **Don't flatter.** No encouragement needed. Clarity is the currency.
+- **Challenge identity-based reasoning.** If I'm avoiding a decision because of who I think I am rather than what actually serves my goals, name it.
 
 ---
 
-## Open Questions / Strategic Tensions
+## Open Strategic Questions
 
-These are live, unresolved threads that should inform how Claude engages with planning and advice:
+| Question | Status | Notes |
+|---|---|---|
+| CHOMPO: pivot to publishing, wind down, or sell? | **Needs a decision deadline** | Joy has faded. Holding on for identity reasons. Publishing is rational if staying; wind-down frees most bandwidth. Chu can run ops either way. |
+| Cabana website: launch it | **Most urgent action item** | A few dedicated days of work. Blocking this is blocking YouTube, socials, and revenue growth. |
+| RELICS: rebuild consistent work routine | **Fix with scheduling** | Not a motivation problem. Block the time and protect it. |
+| Underleveraged overlap: music + gaming + collectibles | **Unexplored** | High potential, zero cross-pollination yet. Post-stabilization opportunity. |
+| Grandparents' house: timeline and financing | **Saving, no firm plan** | Needs a number and a date. |
+| Identity transition: artist → entrepreneur | **Ongoing, in progress** | The real work underneath everything else. |
 
-1. **Which venture gets the scale push?** Cabana Cards has the most operational momentum. RELICS has salary stability. CHOMPO has the highest ceiling but the least current traction. No clear answer yet.
-2. **CHOMPO's pivot.** Publisher vs. label is a significant strategic shift. Needs a decision framework and timeline.
-3. **Underleveraged overlap.** Music + gaming (RELICS) + collectibles community (Cabana) is a unique asset combination. No deliberate cross-pollination yet.
-4. **Systems debt.** Everything living in my head is a risk. The Personal OS itself is the first step toward fixing this.
-
----
-
-*Last updated: June 2026*
-*This document lives in the Cabana Cards / Personal OS Claude Project and should be treated as the primary context reference for all planning, prioritization, and strategic conversations.*
