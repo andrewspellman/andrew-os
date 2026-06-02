@@ -6,7 +6,7 @@
 
 ## Life Situation Right Now
 
-**Newborn at home.** Bowen born May 19, 2026. Operating on broken sleep, compressed focus windows, limited uninterrupted work time. This is not a normal productivity season. The goal right now is **triage and hold-the-line** — keep all three ventures from slipping while building just enough system to stop things falling through the cracks.
+**Newborn at home.** Bowen born May 19, 2026. Still operating on broken sleep, compressed focus windows, limited uninterrupted work time. Lindsay is recovering — better than last week but still not doing great physically or mentally. She is not at full capacity. The family system is still in adjustment mode with three kids under 5.
 
 **Primary constraint:** Time and cognitive bandwidth are severely limited. Protect morning hours above everything else.
 
@@ -14,7 +14,7 @@
 
 ## Current Mode: Catch-Up & Stabilize
 
-Not in build mode. Not in growth mode. In **hold-the-line mode.**
+Not in build mode. Not in growth mode. In **hold-the-line mode** — with a push to get the Personal OS operational so it starts doing work instead of just being a project.
 
 ---
 
@@ -23,59 +23,62 @@ Not in build mode. Not in growth mode. In **hold-the-line mode.**
 ### Cabana Cards — *Most urgent*
 **Focus:** Launch website, then unlock everything else
 
-Website is almost done. Built from scratch. Remaining work:
+Made progress this week. Discord givies launched. New inventory processed. Discord needs addressed. Website is still the primary blocker — not done yet, but moving.
+
+Remaining website work:
 - Add inventory
 - Set up mailing list / email capture
 - Clean up visuals
 - Confirm payment processing works
 
-Realistically a few dedicated days to ship it. This is the single most important task right now — everything else (YouTube launch, socials, email marketing) is blocked behind it. The tendency is to get overwhelmed by the list of small tasks. The fix is to just pick the first one and send it.
+Everything downstream — YouTube, short-form socials, email marketing — remains blocked behind this. Keep chipping at it. A few dedicated days ships it.
 
-**After website launches:**
-- YouTube channel — long-form market content to build trust and drive traffic
-- Short-form Instagram/TikTok/YouTube Shorts funneling to site
-- Content research/prep scripts planned to reduce friction
+**Status:** Progress made on surrounding tasks. Website still the unlock. Keep pushing.
 
-**Status:** Website ~80% done. Needs a dedicated push to ship.
+### CHOMPO Records — *Pending wind-down or pivot, near-term ops work required*
+**Focus:** Finish summer release obligations, then decide
 
-### CHOMPO Records — *Decision needed*
-**Focus:** Make the pivot-or-wind-down call
+Near-term operational work is real and needs to get done:
+- Master files for upcoming summer song releases
+- DSP submissions
+- Marketing files and assets
 
-Honest situation: joy in running the label has faded. Holding on partly for identity reasons ("I'm an artist"). The real goal is family freedom and business success — not artist identity.
+These are discrete, finite tasks Chu can assist with. Get them scoped and assigned. Once the summer release pipeline is clear, the path-forward decision (publishing pivot vs. wind-down vs. catalog sale) needs to be made. Don't let finishing the releases become an excuse to defer the decision indefinitely.
 
-Options:
-1. **Publishing pivot** — sign small acts for publishing rights, build passive income, lower overhead. Rational choice if staying in music.
-2. **Full wind-down** — retire CHOMPO, harvest catalog as passive income, free up significant mental bandwidth.
-3. **Sell the catalog** — worth exploring.
+**Status:** Summer obligations to fulfill first. Decision on general direction still pending — but needs a deadline after releases are processed.
 
-Chu (executive assistant) can run day-to-day ops either way. Michael is stepping down. Decision keeps getting deferred. **Needs a deadline.**
+### RELICS — *Behind, needs real scheduling*
+**Focus:** Catch up on to-do list, rebuild consistent work routine
 
-**Status:** Leaning publishing or wind-down. Decision not made. Set a date.
+Still behind on the to-do list. This has been ongoing. The newborn is a legitimate reason but it is not a permanent one — that window is closing. The problem is structural, not motivational.
 
-### RELICS — *Needs scheduling, not motivation*
-**Focus:** Rebuild consistent work routine
+Fix: block dedicated RELICS time in the schedule and protect it. Treat it like the contracted obligation it is. People haven't noticed yet. That changes.
 
-Slacking looks like: prioritizing Cabana/CHOMPO/family and doing bare minimums on RELICS. Getting by, but people will eventually notice. Currently using the newborn as legitimate cover — that window is closing.
+**Status:** Behind. Schedule the work. Execute.
 
-This is not a motivation problem. It is a scheduling problem. Blocking dedicated RELICS time and protecting it will fix it.
+### Personal OS — *Active build, this week's priority*
+**Focus:** Get it online and operational
 
-**Status:** Underdelivering. Fix with schedule blocks. Game integrations are the active work thread.
+This is on the explicit priority list this week. The goal is to get it handling mundane work and surfacing daily info so Andrew doesn't have to hold everything in his head. This is a cognitive load intervention as much as a productivity tool.
+
+**Status:** In progress. Needs to ship.
 
 ---
 
 ## This Week's Priorities
 
-1. **Cabana website** — pick one remaining task and complete it
-2. **RELICS** — block dedicated work time this week, even if small
-3. **CHOMPO** — set a decision deadline, even if the decision itself comes later
+1. **RELICS** — catch up on to-do list; block and protect work time
+2. **Cabana website** — make meaningful progress toward launch
+3. **Personal OS** — get it online and operational
+4. **CHOMPO** — scope and assign summer release tasks (master files, DSP submissions, marketing assets) to Chu
 
 ---
 
 ## Open Loops
 
-- CHOMPO pivot/wind-down — no deadline set
-- Cabana YouTube — blocked behind website launch
-- Cabana socials — blocked behind website launch
+- Cabana website — still not launched; blocks YouTube, socials, email
+- CHOMPO pivot/wind-down — decision deferred pending summer release completion; needs a firm deadline after that
+- RELICS to-do list — behind, needs a dedicated catch-up push
 - Personal OS — being built now, not yet operational
 - RELICS schedule — not yet structured
 
@@ -85,19 +88,20 @@ This is not a motivation problem. It is a scheduling problem. Blocking dedicated
 
 | Decision | Urgency | Notes |
 |---|---|---|
-| Ship Cabana website | High | Unlocks YouTube, socials, email — do it |
-| CHOMPO: publish, wind down, or sell | Medium-High | Set a deadline this week |
-| RELICS work schedule | High | Block time, protect it |
+| Ship Cabana website | High | Still the unlock for everything downstream |
+| RELICS schedule blocks | High | Not a motivation problem — block the time |
+| CHOMPO summer releases | Medium-High | Scope tasks, assign to Chu, close the loop |
+| CHOMPO direction: publish, wind down, or sell | Medium | Set a deadline after summer releases are done |
 | Cabana social channel order | Low | YouTube first, then short-form |
 
 ---
 
 ## Personal / Life Context
 
-- **Health:** BJJ and lifting on hold due to newborn. Target return around 8-12 weeks (late July/August)
-- **Family:** Three kids under 5. Bowen is 2 weeks old. Lindsay is primary income. Marriage is strong — protect it intentionally under this stress.
-- **Finances:** RELICS salary ($100k) is the stability anchor. Cabana targeting profitability. CHOMPO minimal. Saving for grandparents' house (~$900k).
-- **Mental:** Some burnout. Tired. Building this OS is partly a cognitive load intervention.
+- **Family:** Three kids under 5. Bowen is ~3 weeks old. Lindsay is recovering from birth — getting more sleep, but still not doing well physically or mentally. Treat her recovery as a real variable. Marriage is strong — protect it intentionally under this stress.
+- **Health:** BJJ and lifting on hold. Target return around 8-12 weeks (late July/August).
+- **Finances:** RELICS salary ($100k) is the stability anchor. Cabana targeting profitability in 2026. CHOMPO minimal. Saving toward grandparents' house (~$900k).
+- **Mental:** Burnout is real. Tired. Getting the Personal OS operational is partly a cognitive load intervention. That's the right instinct — follow through on it.
 
 ---
 
@@ -107,8 +111,10 @@ This is not a motivation problem. It is a scheduling problem. Blocking dedicated
 - When he asks "what should I focus on" — give him **one thing**, not a list.
 - Morning is the primary work window. Evenings are largely unavailable.
 - If something sounds scattered, it is. Help close loops, not open new ones.
-- Watch for identity-based reasoning — especially around CHOMPO. If he's avoiding a decision because of "I'm an artist," name it.
-- The website is the unlock. If Cabana comes up, that's the answer.
+- Watch for identity-based reasoning — especially around CHOMPO. Finishing summer releases is a real obligation; using them as a reason to defer the bigger decision is not. Name it if it comes up.
+- The Cabana website is still the unlock. If Cabana comes up, that's still the answer.
+- Lindsay is not fully recovered. Factor that into any suggestions that touch on family bandwidth or Andrew's availability.
+- RELICS is the revenue anchor. Underdelivering there has a real ceiling — don't let it become a crisis.
 
 ---
 
